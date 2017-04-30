@@ -1,0 +1,16 @@
+V2.0
+Ajustado a busca pela última bomba, assim a chance de ganhar aumenta, pois a chance da bomba cair duas vezes seguidas na mesma casa é muito menor. Foi colocado o retorno de mais uma informação para o usuário, além de implementar a possibilidade de habilitar e desabilitar o Martingale.
+
+-------------------------------------
+
+1- Copie o código do arquivo "botcode.js"
+2- Abra o console do Google Chrome.
+3- Cole o código.
+4- Realize os testes para ter certeza que o código esteja rodando.
+
+Obs.: O melhor horário para o uso é durante a madrugada.
+-------------------------------------
+
+Este robô realiza jogadas e ganha Bitcoin sobre o site https://satoshimines.com.
+Atenção, esta é uma plataforma de apostas em Bitcoin.
+O uso é de total responsabilidade de quem realiza a aposta.
